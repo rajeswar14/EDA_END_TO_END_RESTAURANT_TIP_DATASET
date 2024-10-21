@@ -26,7 +26,7 @@ This Jupyter notebook explores the "tips" dataset, which contains information ab
 ## Setup and Usage
 
 1. Clone this repository
-2. Install the required libraries:
+2. Install the required libraries:  `pip install pandas matplotlib seaborn numpy`
 3. Ensure you have the `tips.csv` file in the same directory as the notebook
 4. Open and run the Jupyter notebook
 
